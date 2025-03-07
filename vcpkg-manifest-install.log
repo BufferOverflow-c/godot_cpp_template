@@ -1,7 +1,29 @@
 Detecting compiler hash for triplet arm64-osx...
 Detecting compiler hash for triplet x64-osx...
-All requested packages are currently installed.
-Total install time: 166 ns
+The following packages will be built and installed:
+    fmt:x64-osx@10.2.1#1
+    openssl:x64-osx@3.2.1
+  * vcpkg-cmake:arm64-osx@2023-05-04
+  * vcpkg-cmake-config:arm64-osx@2022-02-06#1
+  * vcpkg-cmake-get-vars:arm64-osx@2023-12-31
+Additional packages (*) will be modified to complete this operation.
+Restored 5 package(s) from /Users/c2/.cache/vcpkg/archives in 329 ms. Use --debug to see more details.
+Installing 1/5 vcpkg-cmake-config:arm64-osx@2022-02-06#1...
+Elapsed time to handle vcpkg-cmake-config:arm64-osx: 2.43 ms
+vcpkg-cmake-config:arm64-osx package ABI: a94694c09c0730066efe02c4e5647d97c6a95e612b4c162de5cca7d117b42615
+Installing 2/5 vcpkg-cmake:arm64-osx@2023-05-04...
+Elapsed time to handle vcpkg-cmake:arm64-osx: 2.16 ms
+vcpkg-cmake:arm64-osx package ABI: d3eec3e7853f04a20a311fc54cb57bb58a7aa585cfd29e4c3529921220bc53b8
+Installing 3/5 fmt:x64-osx@10.2.1#1...
+Elapsed time to handle fmt:x64-osx: 8.11 ms
+fmt:x64-osx package ABI: 4d8cfa7af06f4167d54a131e062ada309b15b92fc103304d3739f3a7b1b3d5f9
+Installing 4/5 vcpkg-cmake-get-vars:arm64-osx@2023-12-31...
+Elapsed time to handle vcpkg-cmake-get-vars:arm64-osx: 1.88 ms
+vcpkg-cmake-get-vars:arm64-osx package ABI: 238e27ff20435d4d06c5a563aca3428f41d8b5287b75bcd0069e80031524e8df
+Installing 5/5 openssl:x64-osx@3.2.1...
+Elapsed time to handle openssl:x64-osx: 39.9 ms
+openssl:x64-osx package ABI: 182b8e801a348abcd4f1f4faddc3415c3a12723a47906778ff021d758fcab4f5
+Total install time: 54.5 ms
 The package fmt provides CMake targets:
 
     find_package(fmt CONFIG REQUIRED)

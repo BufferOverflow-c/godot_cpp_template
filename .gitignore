@@ -4,7 +4,9 @@
 
 *.translation
 *.obj
+*.log
 
+CMakeCache.txt
 
 .vs/**
 !.vs/launch.vs.json
