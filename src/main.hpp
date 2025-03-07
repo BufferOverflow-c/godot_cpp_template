@@ -2,7 +2,7 @@
 
 #include <godot_cpp/classes/node.hpp>
 
-namespace ns {
+namespace brain {
     class Main : public godot::Node
     {
         GDCLASS(Main, godot::Node);

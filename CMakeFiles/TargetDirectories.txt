@@ -1,0 +1,10 @@
+/Users/c2/Documents/GodotProjects/godot-cpp-tests/CMakeFiles/godot_engine.dir
+/Users/c2/Documents/GodotProjects/godot-cpp-tests/CMakeFiles/godot-cpp-tests.dir
+/Users/c2/Documents/GodotProjects/godot-cpp-tests/CMakeFiles/edit_cache.dir
+/Users/c2/Documents/GodotProjects/godot-cpp-tests/CMakeFiles/rebuild_cache.dir
+/Users/c2/Documents/GodotProjects/godot-cpp-tests/extern/godot-cpp/CMakeFiles/godot-cpp.generate_bindings.dir
+/Users/c2/Documents/GodotProjects/godot-cpp-tests/extern/godot-cpp/CMakeFiles/godot-cpp.template_debug.dir
+/Users/c2/Documents/GodotProjects/godot-cpp-tests/extern/godot-cpp/CMakeFiles/godot-cpp.template_release.dir
+/Users/c2/Documents/GodotProjects/godot-cpp-tests/extern/godot-cpp/CMakeFiles/godot-cpp.editor.dir
+/Users/c2/Documents/GodotProjects/godot-cpp-tests/extern/godot-cpp/CMakeFiles/edit_cache.dir
+/Users/c2/Documents/GodotProjects/godot-cpp-tests/extern/godot-cpp/CMakeFiles/rebuild_cache.dir

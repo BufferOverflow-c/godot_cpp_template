@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+c5abb364c213d6418fd42ad2baec5307 extern/godot-cpp/CMakeFiles/godot-cpp.generate_bindings
+4e01412d64cd8e857bb070536f227faf extern/godot-cpp/gen/include/godot_cpp/core/ext_wrappers.gen.inc

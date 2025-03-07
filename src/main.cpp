@@ -2,7 +2,7 @@
 
 #include "main.hpp"
 
-namespace ns {
+namespace brain {
     void Main::_notification(int p_notification)
     {
         switch (p_notification)

@@ -10,7 +10,7 @@
 #include <godot_cpp/classes/scene_tree.hpp>
 #include <godot_cpp/classes/window.hpp>
 
-namespace ns::inline utils {
+namespace brain::inline utils {
     namespace gdeng {
         /* ENGINE */
 

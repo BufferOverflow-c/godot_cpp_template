@@ -8,3 +8,4 @@ reloadable = true
 
 windows.debug.x86_64 = "res://bin/godot-cpp-tests.windows.64.debug.dll"
 windows.release.x86_64 = "res://bin/godot-cpp-tests.windows.64.release.dll"
+macos.arm64 = "res://bin/libgodot-cpp-tests.darwin.64..dylib"
