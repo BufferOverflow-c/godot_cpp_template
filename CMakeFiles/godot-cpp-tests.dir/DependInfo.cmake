@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/c2/Documents/GodotProjects/godot-cpp-tests/src/api/extension _interface.cpp" "CMakeFiles/godot-cpp-tests.dir/src/api/extension__interface.cpp.o" "gcc" "CMakeFiles/godot-cpp-tests.dir/src/api/extension__interface.cpp.o.d"
+  "/Users/c2/Documents/GodotProjects/godot-cpp-tests/src/entity/template_example.cpp" "CMakeFiles/godot-cpp-tests.dir/src/entity/template_example.cpp.o" "gcc" "CMakeFiles/godot-cpp-tests.dir/src/entity/template_example.cpp.o.d"
   "/Users/c2/Documents/GodotProjects/godot-cpp-tests/src/main.cpp" "CMakeFiles/godot-cpp-tests.dir/src/main.cpp.o" "gcc" "CMakeFiles/godot-cpp-tests.dir/src/main.cpp.o.d"
   )
 

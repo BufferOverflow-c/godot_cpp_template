@@ -86,10 +86,24 @@ CMakeFiles/godot-cpp-tests.dir/src/api/extension__interface.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/godot-cpp-tests.dir/src/api/extension__interface.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/c2/Documents/GodotProjects/godot-cpp-tests/src/api/extension _interface.cpp" -o CMakeFiles/godot-cpp-tests.dir/src/api/extension__interface.cpp.s
 
+CMakeFiles/godot-cpp-tests.dir/src/entity/template_example.cpp.o: CMakeFiles/godot-cpp-tests.dir/flags.make
+CMakeFiles/godot-cpp-tests.dir/src/entity/template_example.cpp.o: src/entity/template_example.cpp
+CMakeFiles/godot-cpp-tests.dir/src/entity/template_example.cpp.o: CMakeFiles/godot-cpp-tests.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/c2/Documents/GodotProjects/godot-cpp-tests/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/godot-cpp-tests.dir/src/entity/template_example.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/godot-cpp-tests.dir/src/entity/template_example.cpp.o -MF CMakeFiles/godot-cpp-tests.dir/src/entity/template_example.cpp.o.d -o CMakeFiles/godot-cpp-tests.dir/src/entity/template_example.cpp.o -c /Users/c2/Documents/GodotProjects/godot-cpp-tests/src/entity/template_example.cpp
+
+CMakeFiles/godot-cpp-tests.dir/src/entity/template_example.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/godot-cpp-tests.dir/src/entity/template_example.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/c2/Documents/GodotProjects/godot-cpp-tests/src/entity/template_example.cpp > CMakeFiles/godot-cpp-tests.dir/src/entity/template_example.cpp.i
+
+CMakeFiles/godot-cpp-tests.dir/src/entity/template_example.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/godot-cpp-tests.dir/src/entity/template_example.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/c2/Documents/GodotProjects/godot-cpp-tests/src/entity/template_example.cpp -o CMakeFiles/godot-cpp-tests.dir/src/entity/template_example.cpp.s
+
 CMakeFiles/godot-cpp-tests.dir/src/main.cpp.o: CMakeFiles/godot-cpp-tests.dir/flags.make
 CMakeFiles/godot-cpp-tests.dir/src/main.cpp.o: src/main.cpp
 CMakeFiles/godot-cpp-tests.dir/src/main.cpp.o: CMakeFiles/godot-cpp-tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/c2/Documents/GodotProjects/godot-cpp-tests/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/godot-cpp-tests.dir/src/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/c2/Documents/GodotProjects/godot-cpp-tests/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/godot-cpp-tests.dir/src/main.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/godot-cpp-tests.dir/src/main.cpp.o -MF CMakeFiles/godot-cpp-tests.dir/src/main.cpp.o.d -o CMakeFiles/godot-cpp-tests.dir/src/main.cpp.o -c /Users/c2/Documents/GodotProjects/godot-cpp-tests/src/main.cpp
 
 CMakeFiles/godot-cpp-tests.dir/src/main.cpp.i: cmake_force
@@ -103,18 +117,20 @@ CMakeFiles/godot-cpp-tests.dir/src/main.cpp.s: cmake_force
 # Object files for target godot-cpp-tests
 godot__cpp__tests_OBJECTS = \
 "CMakeFiles/godot-cpp-tests.dir/src/api/extension__interface.cpp.o" \
+"CMakeFiles/godot-cpp-tests.dir/src/entity/template_example.cpp.o" \
 "CMakeFiles/godot-cpp-tests.dir/src/main.cpp.o"
 
 # External object files for target godot-cpp-tests
 godot__cpp__tests_EXTERNAL_OBJECTS =
 
 project/bin/libgodot-cpp-tests.darwin.64..dylib: CMakeFiles/godot-cpp-tests.dir/src/api/extension__interface.cpp.o
+project/bin/libgodot-cpp-tests.darwin.64..dylib: CMakeFiles/godot-cpp-tests.dir/src/entity/template_example.cpp.o
 project/bin/libgodot-cpp-tests.darwin.64..dylib: CMakeFiles/godot-cpp-tests.dir/src/main.cpp.o
 project/bin/libgodot-cpp-tests.darwin.64..dylib: CMakeFiles/godot-cpp-tests.dir/build.make
 project/bin/libgodot-cpp-tests.darwin.64..dylib: bin/libgodot-cpp.macos.template_debug.arm64.a
 project/bin/libgodot-cpp-tests.darwin.64..dylib: vcpkg_installed/x64-osx/debug/lib/libfmtd.a
 project/bin/libgodot-cpp-tests.darwin.64..dylib: CMakeFiles/godot-cpp-tests.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/c2/Documents/GodotProjects/godot-cpp-tests/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX shared library project/bin/libgodot-cpp-tests.darwin.64..dylib"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/c2/Documents/GodotProjects/godot-cpp-tests/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX shared library project/bin/libgodot-cpp-tests.darwin.64..dylib"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/godot-cpp-tests.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

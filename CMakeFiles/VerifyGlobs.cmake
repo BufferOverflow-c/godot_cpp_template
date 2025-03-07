@@ -6980,6 +6980,8 @@ set(OLD_GLOB
   "/Users/c2/Documents/GodotProjects/godot-cpp-tests/src/api/extension_interface.hpp"
   "/Users/c2/Documents/GodotProjects/godot-cpp-tests/src/core/assert.hpp"
   "/Users/c2/Documents/GodotProjects/godot-cpp-tests/src/core/constants.hpp"
+  "/Users/c2/Documents/GodotProjects/godot-cpp-tests/src/entity/template_example.cpp"
+  "/Users/c2/Documents/GodotProjects/godot-cpp-tests/src/entity/template_example.hpp"
   "/Users/c2/Documents/GodotProjects/godot-cpp-tests/src/main.cpp"
   "/Users/c2/Documents/GodotProjects/godot-cpp-tests/src/main.hpp"
   "/Users/c2/Documents/GodotProjects/godot-cpp-tests/src/util/conversions.hpp"

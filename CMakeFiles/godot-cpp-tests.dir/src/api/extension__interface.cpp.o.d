@@ -780,8 +780,16 @@ CMakeFiles/godot-cpp-tests.dir/src/api/extension__interface.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/unordered_map \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/is_permutation.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__hash_table \
-  /Users/c2/Documents/GodotProjects/godot-cpp-tests/src/api/extension_interface.hpp \
-  /Users/c2/Documents/GodotProjects/godot-cpp-tests/src/main.hpp \
+  /Users/c2/Documents/GodotProjects/godot-cpp-tests/src/entity/template_example.hpp \
+  /Users/c2/Documents/GodotProjects/godot-cpp-tests/extern/godot-cpp/gen/include/godot_cpp/classes/sprite2d.hpp \
+  /Users/c2/Documents/GodotProjects/godot-cpp-tests/extern/godot-cpp/gen/include/godot_cpp/classes/node2d.hpp \
+  /Users/c2/Documents/GodotProjects/godot-cpp-tests/extern/godot-cpp/gen/include/godot_cpp/classes/canvas_item.hpp \
   /Users/c2/Documents/GodotProjects/godot-cpp-tests/extern/godot-cpp/gen/include/godot_cpp/classes/node.hpp \
   /Users/c2/Documents/GodotProjects/godot-cpp-tests/extern/godot-cpp/include/godot_cpp/classes/ref.hpp \
-  /Users/c2/Documents/GodotProjects/godot-cpp-tests/extern/godot-cpp/gen/include/godot_cpp/classes/ref_counted.hpp
+  /Users/c2/Documents/GodotProjects/godot-cpp-tests/extern/godot-cpp/gen/include/godot_cpp/classes/ref_counted.hpp \
+  /Users/c2/Documents/GodotProjects/godot-cpp-tests/extern/godot-cpp/gen/include/godot_cpp/classes/text_server.hpp \
+  /Users/c2/Documents/GodotProjects/godot-cpp-tests/extern/godot-cpp/gen/include/godot_cpp/classes/texture2d.hpp \
+  /Users/c2/Documents/GodotProjects/godot-cpp-tests/extern/godot-cpp/gen/include/godot_cpp/classes/texture.hpp \
+  /Users/c2/Documents/GodotProjects/godot-cpp-tests/extern/godot-cpp/gen/include/godot_cpp/classes/resource.hpp \
+  /Users/c2/Documents/GodotProjects/godot-cpp-tests/src/api/extension_interface.hpp \
+  /Users/c2/Documents/GodotProjects/godot-cpp-tests/src/main.hpp

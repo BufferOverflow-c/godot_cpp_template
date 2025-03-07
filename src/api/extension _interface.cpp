@@ -2,6 +2,7 @@
 #include <godot_cpp/core/defs.hpp>
 #include <godot_cpp/godot.hpp>
 
+#include "entity/template_example.hpp"
 #include "extension_interface.hpp"
 #include "main.hpp"
 
@@ -12,6 +13,7 @@ namespace brain {
             return;
 
         godot::ClassDB::register_runtime_class<Main>();
+        godot::ClassDB::register_runtime_class<TemplateExample>();
     }
 
     void uninitialize_extension_module(godot::ModuleInitializationLevel init_level)

@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://cqyyu2cuohn2i"]
+
+[ext_resource type="Texture2D" uid="uid://m87feud2507x" path="res://icon.svg" id="1_errlg"]
+
+[node name="Test" type="Node2D"]
+
+[node name="TemplateExample" type="TemplateExample" parent="."]
+speed = 5.7
+amplitude = 28.47
+texture = ExtResource("1_errlg")

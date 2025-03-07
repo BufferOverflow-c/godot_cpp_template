@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/godot-cpp-tests.dir/src/api/extension__interface.cpp.o"
   "CMakeFiles/godot-cpp-tests.dir/src/api/extension__interface.cpp.o.d"
+  "CMakeFiles/godot-cpp-tests.dir/src/entity/template_example.cpp.o"
+  "CMakeFiles/godot-cpp-tests.dir/src/entity/template_example.cpp.o.d"
   "CMakeFiles/godot-cpp-tests.dir/src/main.cpp.o"
   "CMakeFiles/godot-cpp-tests.dir/src/main.cpp.o.d"
   "project/bin/libgodot-cpp-tests.darwin.64..dylib"
